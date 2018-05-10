@@ -1,3 +1,5 @@
-build/
-bsp/uefi/include/bsp/version.h
-bsp/sbl/include/bsp/version.h
+hypervisor/build/
+hypervisor/bsp/uefi/include/bsp/version.h
+hypervisor/bsp/sbl/include/bsp/version.h
+devicemodel/build/
+devicemodel/include/version.h
